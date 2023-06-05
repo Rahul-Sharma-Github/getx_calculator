@@ -14,7 +14,7 @@ class MainApp extends StatelessWidget {
     return GetMaterialApp(
       title: 'GetX Calculator App',
       theme: ThemeData(
-        primarySwatch: Colors.indigo,
+        primarySwatch: Colors.green,
       ),
       home: const HomePage(),
     );

@@ -23,7 +23,7 @@ class HomePage extends GetView<CalculatorController> {
               Obx(
                 () => Expanded(
                   child: Text(
-                    '${calculator.output}',
+                    calculator.output.toString(),
                     softWrap: true,
                     maxLines: 5,
                     overflow: TextOverflow.fade,

@@ -1,4 +1,4 @@
-# getx_calculator ( Calculator App )
+# GetXX_calculator ( Calculator App )
 # 
 ## A Simple Calculator with the GetX State Management Microframework/Library.
 # 
